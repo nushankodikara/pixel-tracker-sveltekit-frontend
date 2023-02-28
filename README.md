@@ -9,4 +9,4 @@ This is the frontend for the Pixel Tracker project. It is a simple web app that 
 
 # Backend URL
 
-Click [here](https://github.com/nushankodikara) to go to the backend repository.
+Click [here](https://github.com/nushankodikara/pixel-tracker-mongodb-prisma-backend) to go to the backend repository.
